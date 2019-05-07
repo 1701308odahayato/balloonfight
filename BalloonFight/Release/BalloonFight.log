@@ -1,0 +1,30 @@
+﻿  enemy.cpp
+c:\users\1701308\desktop\balloonfight\enemy.cpp(142): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\enemy.cpp(145): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\enemy.cpp(152): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\enemy.cpp(155): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  hitCheck.cpp
+c:\users\1701308\desktop\balloonfight\hitcheck.cpp(34): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\hitcheck.cpp(92): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\hitcheck.cpp(134): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\hitcheck.cpp(199): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  main.cpp
+  player.cpp
+c:\users\1701308\desktop\balloonfight\player.cpp(150): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(153): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(162): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(165): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(171): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(174): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(186): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(189): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(198): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(201): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(207): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\1701308\desktop\balloonfight\player.cpp(210): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  10 of 25 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  BalloonFight.vcxproj -> C:\Users\1701308\Desktop\BalloonFight\Release\BalloonFight.exe
